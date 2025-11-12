@@ -42,11 +42,17 @@ Peer 3 : agreed that focusing on states might make the dashboard more readable a
 
 My Reflection and Design Changes:
 This feedback helped me realize that I was trying too hard to preserve the structure of the original visualization instead of improving its communication. Everyone agreed that clarity mattered more than showing everything. Based on their input, I made several major design decisions:
+
 -Removed the city layer completely to eliminate clutter and confusion.
+
 -Refocused on state-level GDP and added county-level contribution charts as an optional drill-down for users who want more detail.
+
 -Replaced overlapping map layers with an interactive filter system, where clicking a state updates a bar chart instead.
+
 -Simplified the color ramp to one sequential blue palette for readability.
+
 -Added a dynamic title and year slider, so users can interact with the map smoothly and track changes over time.
+
 These adjustments made the design not only simpler but also more purposeful. My peers’ advice shifted my mindset — instead of fighting the technical constraints, I learned to redesign around them and focus on user understanding.
 
 ## Step five: build the solution
@@ -54,9 +60,13 @@ These adjustments made the design not only simpler but also more purposeful. My 
 My final dashboard focuses on how each state and county contributes to the U.S. economy over time.
 The design includes:
 -A state-level filled map colored from light to dark blue based on GDP ranking.
+
 -A year slider that allows users to move between 2001 and 2018 to see how economic patterns evolve.
+
 -A county-level bar chart that automatically updates when a user clicks on a state, showing that state’s internal GDP composition.
+
 -A clear title and dynamic text to highlight the selected year.
+
 I deliberately removed unnecessary city labels, 3D effects, and excessive legends. The goal was to create a clean, data-driven story that anyone can read easily. Each interaction guides the user from a national overview to state-specific insights without visual clutter. Overall, this redesign transformed a flashy but confusing 3D map into a clear, interactive, and data-focused dashboard. It emphasizes the story of how different regions contribute to the U.S. economy over time — simple, insightful, and easy to explore.
 
 <div class='tableauPlaceholder' id='viz1762920101613' style='position: relative'><noscript><a href='#'><img alt='How Each State and County Contributes to the U.S. Economy (2001 – 2018) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;US_GDP_WJ&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='US_GDP_WJ&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;US_GDP_WJ&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
