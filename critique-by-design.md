@@ -22,6 +22,9 @@ I went straight into Tableau rather than sketching by hand, because I already ha
 -Dual-axis maps caused issues with zoom synchronization.
 -Filters applied to both layers together, even when I wanted them to apply only to one (for example, only to the top 10 cities).
 -The top layer completely covered the background, and I couldn’t make it transparent enough to reveal the base map.
+<img width="933" height="642" alt="Screenshot 2025-11-11 at 11 29 39 PM" src="https://github.com/user-attachments/assets/20957c97-4979-4241-8105-ec8107fde014" />
+<img width="930" height="647" alt="Screenshot 2025-11-11 at 11 31 27 PM" src="https://github.com/user-attachments/assets/e7cbdb8d-bfaf-4c1c-b4df-943e9bdf9629" />
+
 
 After several iterations, I realized the approach was not practical. The combined city-state layout was visually overloaded and technically unstable in Tableau. It became clear that I needed a simpler, more purposeful redesign that prioritized clarity over complexity.
 
