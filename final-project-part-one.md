@@ -75,7 +75,8 @@ Suggest that successful strategies require reforms in both workplace expectation
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
+
 This project uses four datasets from the World Bank, UNDP, and OECD. These datasets allow a multi-dimensional comparison of fertility, labor participation, gender inequality, and family policy spending. The fertility and labor force datasets provide long-term time series. The GII dataset captures structural gender disparities that influence fertility intentions. OECD family spending data illustrates how different welfare states support (or fail to support) parents.
 
 Together, these datasets create a holistic picture of how gender equality, workplace structures, and public policy shape fertility outcomes. They also allow for multi-variable comparisons in Tableau, such as fertility vs. female labor force participation, or fertility vs. family spending.
