@@ -69,6 +69,9 @@ Suggest that successful strategies require reforms in both workplace expectation
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 <img width="1095" height="661" alt="Screenshot 2025-11-19 at 10 38 22 PM" src="https://github.com/user-attachments/assets/dd05715c-1938-4b68-9762-1c5d0bc2632d" />
+<img width="986" height="608" alt="Screenshot 2025-11-19 at 11 07 27 PM" src="https://github.com/user-attachments/assets/050620aa-fc7a-4188-9b81-e903e8182004" />
+<img width="1010" height="597" alt="Screenshot 2025-11-19 at 11 07 36 PM" src="https://github.com/user-attachments/assets/fbaf81b6-6729-4078-a2b0-887b49abd00c" />
+<img width="535" height="514" alt="Screenshot 2025-11-19 at 11 07 45 PM" src="https://github.com/user-attachments/assets/f918cbb8-dd4d-43f6-b0d9-9631eb322e58" />
 
 
 # The data
