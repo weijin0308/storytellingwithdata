@@ -19,6 +19,7 @@ Beginning：
 Introduce the global fertility decline and its long-term socioeconomic consequences.
 Highlight the common misconception that women’s employment is the main cause of low fertility.
 Introduce the six selected countries as examples of four contrasting demographic models:
+
 -Nordic model (high gender equality, strong welfare support)
 
 -Western European model (policy-supported work–family balance)
