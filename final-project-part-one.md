@@ -15,9 +15,13 @@ To examine these trends, this project compares six representative countries—Sw
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 Project structure and story arc
+
 Beginning：
+
 Introduce the global fertility decline and its long-term socioeconomic consequences.
+
 Highlight the common misconception that women’s employment is the main cause of low fertility.
+
 Introduce the six selected countries as examples of four contrasting demographic models:
 
 -Nordic model (high gender equality, strong welfare support)
@@ -29,26 +33,37 @@ Introduce the six selected countries as examples of four contrasting demographic
 -East Asian model (long work hours, rigid gender norms)
 
 Middle — Key insights from the data
+
 Section 1: Fertility Trends (1990–2023)
+
 Show fertility for each country and highlight diverging trajectories.
+
 Emphasize severe declines in Japan/Korea and relative stability in Nordic countries and France.
 
 Section 2: Female Labor Force Participation
+
 Compare labor participation trends to show whether “more women working = fewer births” actually holds.
+
 Reveal that high female employment can coexist with higher fertility when gender equality and childcare support are present.
 
 Section 3: Gender Inequality (GII)
+
 Compare structural gender inequality across countries.
+
 Use GII to explain why fertility is most constrained in East Asia: high inequality at home + shortage of shared caregiving.
 
 Section 4: Public Spending on Family Benefits (OECD)
 
 Compare spending on childcare services, cash benefits, and tax breaks.
+
 Show that countries with generous childcare and leave systems (Nordics, France) have higher fertility.
 
 Conclusion and implications：
+
 Summarize how gender equality, supportive policies, and work–family balance influence fertility.
+
 Explain that fertility decline is not inevitable and it depends heavily on social and institutional support.
+
 Suggest that successful strategies require reforms in both workplace expectations and household gender roles.
 
 ## Initial sketches
