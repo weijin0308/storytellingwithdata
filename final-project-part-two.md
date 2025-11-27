@@ -105,14 +105,15 @@ Based on the interview feedback, several improvements are needed to make the sto
 
 Overall, the interviews confirmed that the core story is compelling and relevant, especially for young audiences concerned about social change and future family decisions. However, clarity and guidance are essential. By strengthening transitions, defining terms, acknowledging outliers, and emphasizing key takeaways, Part III can become more impactful and accessible. These changes will help ensure that the audience not only sees the data but clearly understands the message behind it: fertility outcomes improve when societies support gender equality and family-friendly policies.
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+World Bank. (2024). World Development Indicators – Fertility rate, total (births per woman); Labor force participation rate, female (% of female population ages 15+).
+
+United Nations Development Programme (UNDP). (2024). Human Development Report – Gender Inequality Index (GII).
+
+OECD. (2024). Social Expenditure Database – Public spending on family benefits (% of GDP).
+
+Ritchie, H., et al. Our World in Data – background charts on fertility and female labor participation (used for inspiration on chart design and narrative structure).
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used ChatGPT (GPT-5.1) to help with brainstorming story structure, improving narrative text for scenes, and organizing the user research protocol. All data selection, chart creation in Tableau, and final editing decisions were my own.
