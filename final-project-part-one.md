@@ -1,10 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
 In many contemporary societies, fertility rates have been steadily declining, raising significant concerns about long-term social and economic consequences. Low fertility contributes to shrinking workforces, rising dependency ratios, and increased stress on pension and healthcare systems. Despite government attempts to reverse this trend through subsidies, tax incentives, or expanded parental leave, progress remains limited. For instance, China’s fertility rate remains among the lowest in the world despite its shift from the one-child to the three-child policy, showing that demographic patterns are deeply shaped by social structures rather than short-term policy shifts.
 
@@ -12,7 +10,6 @@ This project explores whether gender equality—both in the labor market and wit
 
 To examine these trends, this project compares six representative countries—Sweden, Norway, France, the United States, Japan, and South Korea—each reflecting distinct policy models and work-family norms. Through analysis of fertility rates, female labor force participation, gender inequality indices, and public spending on family benefits, the project tells a data-driven story of how institutional and cultural contexts shape reproductive choices.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 Project structure and story arc
 
@@ -67,7 +64,7 @@ Explain that fertility decline is not inevitable and it depends heavily on socia
 Suggest that successful strategies require reforms in both workplace expectations and household gender roles.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+
 <img width="1095" height="661" alt="Screenshot 2025-11-19 at 10 38 22 PM" src="https://github.com/user-attachments/assets/dd05715c-1938-4b68-9762-1c5d0bc2632d" />
 <img width="986" height="608" alt="Screenshot 2025-11-19 at 11 07 27 PM" src="https://github.com/user-attachments/assets/050620aa-fc7a-4188-9b81-e903e8182004" />
 <img width="1010" height="597" alt="Screenshot 2025-11-19 at 11 07 36 PM" src="https://github.com/user-attachments/assets/fbaf81b6-6729-4078-a2b0-887b49abd00c" />
@@ -75,13 +72,11 @@ Suggest that successful strategies require reforms in both workplace expectation
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
 
 This project uses four datasets from the World Bank, UNDP, and OECD. These datasets allow a multi-dimensional comparison of fertility, labor participation, gender inequality, and family policy spending. The fertility and labor force datasets provide long-term time series. The GII dataset captures structural gender disparities that influence fertility intentions. OECD family spending data illustrates how different welfare states support (or fail to support) parents.
 
 Together, these datasets create a holistic picture of how gender equality, workplace structures, and public policy shape fertility outcomes. They also allow for multi-variable comparisons in Tableau, such as fertility vs. female labor force participation, or fertility vs. family spending.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -91,12 +86,9 @@ Together, these datasets create a holistic picture of how gender equality, workp
 | OECD – Public Spending on Family Benefits (PF1.1)     | https://www.oecd.org/social/family/database.htm    | Spending on childcare services, cash benefits, and tax breaks.          |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project.
 
 I will create my final project using Tableau for all visualizations and Shorthand as my narrative storytelling platform. Tableau will allow me to construct clear, interactive charts comparing multiple countries across time and across variables. These visualizations will be embedded directly into Shorthand, where I will structure the story according to my outline: introducing the problem, presenting data-driven insights, and concluding with implications.
 
-## References
-_List any references you used here._
 
 ## AI acknowledgements
 AI (ChatGPT) was used to help find datasets I want and polish all my writings.
