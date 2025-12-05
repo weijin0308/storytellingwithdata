@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 For Part II, I translated my outline into a more concrete storyboard and implemented it as a draft Shorthand story. The narrative is organized into five main scenes that guide the reader from the problem of falling fertility to possible policy responses. Each scene is anchored by at least one high-fidelity draft visualization created in Tableau. This is my shorthand link:https://preview.shorthand.com/nltcUhN6RdX0Gi74
 
@@ -33,8 +32,6 @@ I have an unfinalized scene 6 for conclusion.
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
-
 My target audience is young adults and general readers who are increasingly curious about social challenges but do not have a formal background in demography or public policy. In recent years, falling fertility has become a widely discussed topic—both in news media and everyday conversations—as more young people express hesitation or unwillingness to have children due to financial pressure, work-life imbalance, or shifting personal priorities. Because of this growing cultural interest, I expect that anyone who has wondered why birth rates are dropping, or what might shape future family choices, could meaningfully engage with this story.
 
 More specifically, my core audience includes:
@@ -48,7 +45,6 @@ More specifically, my core audience includes:
 To identify representative individuals for user research, I plan to recruit at least three participants from my own network—classmates at CMU, peers in other programs, and friends outside the university. These individuals are not experts in demography, but they are familiar enough with charts and news topics to provide realistic feedback about clarity and engagement. The goal is to ensure that the final story is accessible, intuitive, and relevant to a broad audience who may be curious about the issue but lacks technical knowledge.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 The goal of my user research is to understand whether the narrative is clear, whether the visualizations are readable without heavy explanation, and where readers feel confused or overloaded. I am particularly interested in whether the story successfully challenges the “working women = low fertility” assumption and whether the later scenes about gender inequality and policy support feel connected rather than sudden.
 
@@ -66,7 +62,6 @@ I will use a semi-structured interview format. Participants will first scroll th
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 I conducted interviews with three participants:
 
@@ -89,7 +84,6 @@ Each participant scrolled through the draft Shorthand story on their own and the
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 Based on the interview feedback, several improvements are needed to make the story clearer, more intuitive, and more engaging for a general audience. The main themes include improving transitions between scenes, simplifying technical terms, clarifying outlier cases (such as the United States), and adding clearer takeaways so viewers don’t have to interpret charts on their own. These changes will help ensure that readers not only follow the storyline but also walk away with the intended insights.
 
@@ -101,7 +95,6 @@ Based on the interview feedback, several improvements are needed to make the sto
 |  Viewers wanted clearer takeaways instead of having to interpret charts on their own.                                        |   Add bold summary statements beneath or beside each visualization (e.g., “Higher equality aligns with higher fertility”).                                                                              |
 | Viewers found comparisons helpful when understanding differences in public spending.            |      Add simple quantitative comparisons (e.g., “Norway spends over 3× more than the U.S.”).                                                                           |
 
-> ...include any final thoughts you have here. 
 
 Overall, the interviews confirmed that the core story is compelling and relevant, especially for young audiences concerned about social change and future family decisions. However, clarity and guidance are essential. By strengthening transitions, defining terms, acknowledging outliers, and emphasizing key takeaways, Part III can become more impactful and accessible. These changes will help ensure that the audience not only sees the data but clearly understands the message behind it: fertility outcomes improve when societies support gender equality and family-friendly policies.
 
